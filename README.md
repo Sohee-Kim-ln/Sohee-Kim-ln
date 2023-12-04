@@ -29,7 +29,7 @@
 
 #### Tools & Soft Skills
 
-+ ![Git](https://img.shields.io/badge/git-#F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-#0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-#FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)  ![Mattermost](https://img.shields.io/badge/MATTERMOST-#0058CC.svg?style=for-the-badge&logo=mattermost&logoColor=white)  ![Github](https://img.shields.io/badge/github-#181717.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-#FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
++  <img src="https://img.shields.io/badge/git-#F05032.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-#0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">  <img src="https://img.shields.io/badge/Postman-#FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">  <img src="https://img.shields.io/badge/MATTERMOST-#0058CC.svg?style=for-the-badge&logo=mattermost&logoColor=white">  <img src="https://img.shields.io/badge/github-#181717.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-#FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 #### Interested / Learning
 
